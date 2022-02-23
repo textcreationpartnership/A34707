@@ -1,0 +1,422 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The antiquity and dignity of parliaments written by Sir Robert Cotton.</title>
+            <author>Cotton, Robert, Sir, 1571-1631.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34707</idno>
+            <idno type="STC">Wing C6481</idno>
+            <idno type="STC">ESTC R3568</idno>
+            <idno type="EEBO-CITATION">11882952</idno>
+            <idno type="OCLC">ocm 11882952</idno>
+            <idno type="VID">50342</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34707)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50342)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 23:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The antiquity and dignity of parliaments written by Sir Robert Cotton.</title>
+                  <author>Cotton, Robert, Sir, 1571-1631.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This enlarged version was previously published in Cottoni posthuma, 1651, with the title That the kings of England have been pleased usually to consult with their peeres, in the Great Councell and Commons in Parliament, of marriage, peace, and warre"--BM.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50342:1"/>
+            <pb facs="tcp:50342:1" rendition="simple:additions"/>
+            <p>THE ANTIQUITY AND DIGNITY OF PARLIAMENTS.</p>
+            <p>Written by Sir <hi>ROBERT COTTON.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Anno Domini</hi> MDCLXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50342:2"/>
+            <pb n="1" facs="tcp:50342:2"/>
+            <head>That the Kings of <hi>England</hi> have been pleaſ<g ref="char:EOLhyphen"/>ed, uſually to Conſult in the Great Coun<g ref="char:EOLhyphen"/>cil of Marriage, Peace and War, with their Peers and Commons in Parliament.</head>
+            <p>
+               <note place="margin">
+                  <hi>William</hi> the Conqueror.</note>TO ſearch ſo high as the <hi>Norman</hi> Conqueſt, that is neceſ<g ref="char:EOLhyphen"/>ary to lay down the Form and Government of thoſe Times, wherein State-Affairs were led in another Form of publick Councils: For the People wrought under the Sword of the Firſt <hi>William,</hi> and his Followers, to a ſubjected Vaſſallage, and could not poſſeſs in ſuch Aſſemblies, the Right of their former Liberties, Diviſion and Power having maſtered them, and none of their own Nobility and Heads be<g ref="char:EOLhyphen"/>ing left, either of Credit or Fortunes.</p>
+            <p>
+               <note place="margin">Doomſ-day Book.</note>What he retained not in Providence, (as the Demeſnes of the Crown) or reſerved in Piety, (as the Maintenance of the Church) he parted to thoſe Strangers that ſailed along with him, in that Barque of his Adventure, leaving the Natives for the moſt part, (as appeareth in his Survey) in no better condition than Villain<g ref="char:EOLhyphen"/>age: <note place="margin">Admerus. Huntington.</note> He moulded their Cuſtoms to the manner of his own Coun<g ref="char:EOLhyphen"/>trey, and forbare to grant the Laws of holy <hi>Edward,</hi> ſo often called for.</p>
+            <p>
+               <note place="margin">Ex libro Feoda<g ref="char:EOLhyphen"/>ris in Scaccio.</note>To ſupply his occaſions of Men, Money and Proviſion, he or<g ref="char:EOLhyphen"/>dered, that all thoſe that enjoyed any fruit of his Conqueſt, ſhould hold their Lands proportionable by ſo many Knights Fees of the Crown, admitted them to enfeoff their Followers, with ſuch parts as they pleaſed of their own Portions; which to eaſe their Charge, they did in his and his Sons times, <note place="margin">
+                  <hi>Hen.</hi> 4. Statut.</note> by two Enfe<g ref="char:EOLhyphen"/>offments, the one <hi>de Novo,</hi> the other <hi>de Veteri.</hi>
+            </p>
+            <p>This courſe provided him the body of the War; the Money and Proviſion was by Head-age aſſeſſed on the common People, <note place="margin">Ex libro Rubro Scaccio.</note> at the Conſent of the Lords, who held in all their Seigniories ſuch Right of Regality, that to their Vaſſals, as <hi>Paris</hi> ſaith, <note place="margin">Cronicom de Dnuſtable.</note>
+               <hi>Quot Domini, tot Tyranni,</hi> and proved to the King ſo great a Curb, and reſtraint of Power, that nothing fell into the Care of his Majeſty after, <note place="margin">Benedict Mo<g ref="char:EOLhyphen"/>nard in vita Hen. <hi>2.</hi>
+               </note> more than to retrench the Force of his <hi>Ariſto<g ref="char:EOLhyphen"/>coited,</hi> that was in time like to ſtrangle the <hi>Monarchy.</hi>
+            </p>
+            <p>Though others foreſaw the Miſchiefs betimes, yet none at<g ref="char:EOLhyphen"/>tempted the Remedy, until King <hi>John,</hi> whoſe over-haſty Un<g ref="char:EOLhyphen"/>dertaking, brought in theſe Broyls of the Barons Wars.</p>
+            <p>There needed not before this Care, to adviſe with the Com<g ref="char:EOLhyphen"/>mons in any publick Aſſembly, when every Man in <hi>England,</hi> by
+<pb n="2" facs="tcp:50342:3"/>Tenure, held himſelf to his great Lord's Will, whoſe preſence was ever regnized in thoſe great Councils, and in whoſe Aſſent, his dependant Tenant's Conſent was ever included.</p>
+            <p>Before this King's Time then, <note place="margin">Clauſ. <hi>6</hi> an Dor<g ref="char:EOLhyphen"/>ſo.</note> we ſeek in vain for any Com<g ref="char:EOLhyphen"/>mons Called; they were ever Called for making of Laws, but not to Conſult touching War or Peace: He firſt, as may be ga<g ref="char:EOLhyphen"/>thered, (though darkly by the Records) uſed their Counſels and Aſſents in the 6th. year of his Reign.</p>
+            <p>Here is the firſt Summons in Record to the Peers or Barons: <hi>Tractatur de magnis &amp; ardinis negotiis:</hi> It was about a War of Defence againſt the <hi>French,</hi> and at that time the Commons were admitted. <note place="margin">Parts <hi>6.</hi> Ro. <hi>2.</hi> in Dorſo.</note> As this time that may fitly be gathered by this Or<g ref="char:EOLhyphen"/>dinance, <hi>Proviſum eſt communi aſſenſu Archiepiſcoporum Commo<g ref="char:EOLhyphen"/>tium, Barronium &amp; omnium fidelium noſtrorum Angliae quod no<g ref="char:EOLhyphen"/>vem Milites per Angliam inveniend. de communi Ro.</hi> And this was directed to all the Sheriffs in <hi>England,</hi> the ancient uſe in pub<g ref="char:EOLhyphen"/>lick Laws.</p>
+            <p>From this there is a break, until 18 <hi>Hen.</hi> 3. where the next Summons extant is in a Plea-Roll of that year; <note place="margin">Clauſ. <hi>49.</hi> Hen. <hi>3</hi> in Dorſo.</note> but the Ordi<g ref="char:EOLhyphen"/>nances are loſt, from thence the Record affords no light, until the 49th. of the ſame King, where then the Summons to Biſhops, Lords, Knights and Burgeſſes, are much in manner, though not in matter, alike to the Uſe of our Times. This Parliament was Called to adviſe with the King, <hi>propace aſſeveranda &amp; firmanda,</hi> they are the words; and where Advice is required, Conſultati<g ref="char:EOLhyphen"/>on muſt be admitted.</p>
+            <p>To this King ſucceeds <hi>Edw.</hi> I. his Son a wiſe, a juſt, and a fortunate Prince: <note place="margin">
+                  <hi>Edw.</hi> I.</note> In his Reign we have no light of any publick Counſel in this kind, and ſo along to the 4th. of his Grandchilds Reign, but what we borrow in the Rolls of Summons, wherein the Form ſtood various according to the occaſions, <note place="margin">Ex Rot. Parl. in Archivis Lon<g ref="char:EOLhyphen"/>don.</note> until that grew conſtant in the form that's now about the entring of <hi>Rich.</hi> II. the Journal Rolls being ſpoiled by the injury of Time, or private Ends.</p>
+            <p>The King in the 5th. of his Reign, Called a Parliament, and therein adviſed with his Lords and Commons, <note place="margin">
+                  <hi>Clauſ.</hi> 5. Edw. I. <hi>in Dorſo.</hi>
+               </note> for the ſuppreſſing <hi>Lluellin,</hi> Prince of <hi>Wales;</hi> and hearing that the <hi>French</hi> King in<g ref="char:EOLhyphen"/>tended to ſome pieces of his Inheritance in <hi>France,</hi> ſummoned a Parliament, <note place="margin">
+                  <hi>Clauſ.</hi> 7. Edw. I. <hi>m.</hi> 3. <hi>in Dorſo.</hi>
+               </note>
+               <hi>ad tractandum, ordinandum, &amp; favendum cum Prae<g ref="char:EOLhyphen"/>latis proceribus &amp; aliis Incolis Regni qualibet hujuſmodi Periculis, &amp; Excogitatis militiis ſic abjurand.</hi> inſerting in the Writ, that that was <hi>Lex justiſſima provida Circumſpectione ſtabilita;</hi> that that which <hi>omnes tangit ab omnibus approbetur,</hi>
+               <note place="margin">
+                  <hi>Clauſ.</hi> 34. Ed. I. <hi>in Dorſo.</hi>
+               </note> in the 34th. of his Reign, <hi>ſuper ordinatione &amp; ſtabiliamento Regni Scotiae,</hi> he made the like Convention.</p>
+            <p>
+               <pb n="3" facs="tcp:50342:3"/>His Son, the II. <hi>Edw. pro ſolempnitate ſponſialum &amp; Coronaro<g ref="char:EOLhyphen"/>nis,</hi>
+               <note place="margin">Edw. <hi>2.</hi> Clauſ. <hi>1.19</hi> m. Clauſ <hi>6.3</hi> m. Clauſ<g ref="char:punc">▪</g> 
+                  <hi>8.3</hi> m. Clauſ. <hi>13.</hi> m <hi>13.</hi> in Dorſo.</note> conſulted with his People in his firſt year; in his 6th. year, <hi>ſuper diverſis negotiis Statum Regni &amp; expedtione Guerrem Scotiae ſpecialiter tangentibus,</hi> he aſſembled the State to adviſe; the like he did in his 8th. year.</p>
+            <p>The <hi>French</hi> King having invaded <hi>Gaſcoigne,</hi>
+               <note place="margin">
+                  <hi>Clauſ.</hi> 16. <hi>m.</hi> 27</note> in the 13th. year of the Parliament, was Called, <hi>ſuper ordinis negotiis statum Du<g ref="char:EOLhyphen"/>catus Gaſconiae tangentibus;</hi> and in the 16th. to conſult, <hi>ad re<g ref="char:EOLhyphen"/>fraenandum Scotorum obſtinantiam &amp; malitiam.</hi>
+            </p>
+            <p>Before <hi>Edw.</hi> III. would reſolve in his firſt year, <note place="margin">Edw. 3. <hi>Clauſ.</hi> 1.</note> whether Peace or War with the <hi>Scots</hi> King, he ſummoned the Peers and Com<g ref="char:EOLhyphen"/>mons, <hi>ſuper praemiſſis tractare &amp; Conſilium impendere.</hi>
+            </p>
+            <p>The Chancellor, <hi>Anno</hi> 5. declareth from the King the cauſe of that Aſſembly, and that that was to conſult and reſolve, whe<g ref="char:EOLhyphen"/>ther the King ſhould proceed with <hi>France,</hi>
+               <note place="margin">Rot. Parl 5.</note> for the recovery of his Seigniories, by Alliance of Marriage, or by War; and whe<g ref="char:EOLhyphen"/>ther to redreſs the Diſobedience of the <hi>Iriſh,</hi> he ſhould go thi<g ref="char:EOLhyphen"/>ther in perſon or no.</p>
+            <p>The year following he re-aſſembled his Lords and Commons, and requireth their Advice, whether he ſhould undertake the holy Expedition with the <hi>French</hi> King or no; <note place="margin">
+                  <hi>Parl.</hi> 6 Edw. 3.</note> the Biſhops and Proctors of the Clergy would not be preſent, as forbidden by the Commons ſuch Counſels: The Peers and Commons conſult, ap<g ref="char:EOLhyphen"/>plauding the Religious and Princely forwardneſs of their Sove<g ref="char:EOLhyphen"/>raign to this hard Enterprize; but humbly adviſe forbearance this year, for urgent Reaſons.</p>
+            <p>The ſame year, (though another Seſſions,) the King demand<g ref="char:EOLhyphen"/>ing the Advice of his People, whether he ſhould paſs into <hi>France,</hi> to an Enterview, as was deſired, for the expediting the Treaty of Marriage: The Prelates by themſelves, and the Earls and Ba<g ref="char:EOLhyphen"/>rons by themſelves, and the Knights of the Shires by themſelves, <note place="margin">
+                  <hi>Rot. Parl.</hi> 6 Edw. 3. <hi>Seſſ.</hi> 2. <hi>m.</hi> 6.</note> conſult apart, (for ſo is the Records) and in the end reſolved, that to prevent ſome dangers likely to ariſe from the North, that would pleaſe the King to forbear his Journey, and to draw to<g ref="char:EOLhyphen"/>wards thoſe Parts where the perils were feared, his preſence be<g ref="char:EOLhyphen"/>ing the beſt prevention; which Advice he followed.</p>
+            <p>In the following Parliament at <hi>York,</hi> the King ſheweth, how by their former Advice, he had drawn himſelf towards the North Parts, and now again he had aſſembled them, to adviſe further for his Proceedings. To which the Lords and Commons having conſulted apart, pray further time to reſolve, until a full Aſſem<g ref="char:EOLhyphen"/>bly of the State: To which the King granting, adjourneth that Seſſions.</p>
+            <p>At their next Meeting, they are charged upon their Allegiance and Faith, to give the King their beſt Advice. <note place="margin">
+                  <hi>Ret.</hi> 7 Edw. 3. <hi>Seſſ</hi> 2. <hi>Parl.</hi> 7 Edw. 3. <hi>m.</hi> 6.</note> The Peers and Commons (conſulting apart) delivered their Opinions, and ſo that Parliament ended.</p>
+            <p>
+               <pb n="4" facs="tcp:50342:4"/>In the 13th. year, the Grandees and Commons are called to conſult and adviſe, how the domeſtick Quiet may be preſerved, the Marches of <hi>Scotland</hi> defended, and the Sea ſcowred from Enemies: The Peers and Commons (having apart conſulted) the Commons deſire not to be charged to Counſel in things, <hi>des queux ils neut pas Cogniſaux,</hi> anſwer, that the Guardians of the Shire, aſſiſted by the Knights, may effect the firſt, (if Pardons of Felony be not granted) the care of the Marches they hum<g ref="char:EOLhyphen"/>bly leave to the King and Counſel; and for the ſafeguard of the Seas, they wiſh that the Cinque-ports and Maritime Towns, (diſ<g ref="char:EOLhyphen"/>charged for the moſt part from many Burthens of Inland Parts) may have that left to their Charge and Care; and that ſuch as have Lands near the Sea-Coaſts, be commanded to reſide in thoſe Poſſeſſions.</p>
+            <p>The Parliament is the ſame year re-aſſembled to adviſe, <hi>De expeditione Guerre in partibus tranſmarinis.</hi>
+               <note place="margin">
+                  <hi>Rot. Parl.</hi> 13 Edw. 3. <hi>Seſſ.</hi> 2.</note> At this Aſſembly Ordinances are made for proviſion of Ships, arraying of Men for the Marches, and defence of the Iſle of <hi>Jerſey,</hi> naming ſuch in the Record, as they conceived for the Imployments.</p>
+            <p>The next year, <note place="margin">
+                  <hi>Parl.</hi> 14 Edw. 3. <hi>Parl.</hi> 15 Edw. 3</note>
+               <hi>De la Poole</hi> accounteth the Expences of the War; a new Aid is granted, and by ſeveral Committees, (in which divers were named, that were not Peers of Parliament) the ſafeguard of the Seas, and defence of the Borders, are con<g ref="char:EOLhyphen"/>ſulted of.</p>
+            <p>In the 15th. year, <note place="margin">
+                  <hi>Parl.</hi> 17 Ed, 3.</note>
+               <hi>Aſſenſu Prelatorum, Procerum, &amp; aliorum de Conſilio,</hi> the King's Paſſage into <hi>France</hi> is reſolved of.</p>
+            <p>In <hi>Anno</hi> 17. <hi>Badleſmore,</hi> in the place of the Chancellor, de<g ref="char:EOLhyphen"/>clareth to the Peers and Commons, That whereas by their Aſ<g ref="char:EOLhyphen"/>ſents, the King had undertaken the Wars with <hi>France,</hi> and that by the Mediation of the Pope, a Truce was offered, which then their Soveraign forbare to entertain, without their well Allow<g ref="char:EOLhyphen"/>ance.</p>
+            <p>The Lords apart conſult; and alſo the Commons, returning by Sir <hi>William Truſſel,</hi> in anſwer to their Advice and Deſire to compoſe the Quarrel, approve the Truce, and the Pope's Me<g ref="char:EOLhyphen"/>diation.</p>
+            <p>The Pope's Undertaking proving fruitleſs, and delays to the <hi>French</hi> advantage, who in the mean ſpace, (with <hi>Scotland</hi> and others) practiſed to root out the <hi>Engliſh</hi> Nation; in <hi>France,</hi> the King again aſſembled his Parliament the year following: In which the Peers and Commons, after many days of Deliberation, reſolve to end that, either by Battel or Peace, and no more to truſt to the Mediation of his Holineſs.</p>
+            <p>In the 12th. the Chief Juſtice <hi>Thorpe,</hi>
+               <note place="margin">
+                  <hi>Parl.</hi> 21 Edw. 3.</note> declaring to the Peers and Commons, that the <hi>French</hi> Wars began by their Advice.</p>
+            <p>
+               <pb n="5" facs="tcp:50342:4"/>Firſt, The Truce, after by their Aſſents accepted, and now ended, the King's Pleaſure was to have their Counſels in theſe Proſecutions: The Commons being commanded, <hi>Yils ſe devoi<g ref="char:EOLhyphen"/>rent enſemble &amp; ſi ils aſſent le devoirent noſtre an Roy &amp; all Grandees de ſon Counſel,</hi> who after four days conſulting, hum<g ref="char:EOLhyphen"/>bly deſire of the King, that he would be adviſed herein by his Lords, and others of more Experience than themſelves in ſuch Affairs.</p>
+            <p>To adviſe the King the beſt for his <hi>French</hi> Imployments, <note place="margin">
+                  <hi>Parl.</hi> 25 Ed. 3.</note> a Par<g ref="char:EOLhyphen"/>liament was ſummoned, <hi>Anno</hi> 25. wherein the King by a more publick Diſpatch, willeth the Commons to elect twenty four, or thirty, of their Houſe, to conſult with the Lords; theſe to relate to their Fellows, and the Concluſion in general, by the Lords to the King.</p>
+            <p>In the 27th. a great Counſel is aſſembled, <note place="margin">
+                  <hi>Parl.</hi> 27 Ed. 3</note> many of the Lay-Peers, few of the Clergy, and of the Knights of the Shires, and Burgeſſes, but one a piece. This was for the proſecution of the <hi>French</hi> Wars, when honourable following. A Truce being offered, the King forbare his Peers and Commons, which they in Parliament accorded unto before the Pope's Notary, by publick Inſtinct.</p>
+            <p>The dallying of the <hi>French</hi> King, in concluſion of Peace, <note place="margin">
+                  <hi>Parl.</hi> 29 Ed. 3.</note> and the falling off of the Duke of <hi>Britain,</hi> (having wrought his End with <hi>France,</hi> by reputation of the <hi>Engliſh</hi> Succour) is the year following declared in Parliament, and their Advice and Aid re<g ref="char:EOLhyphen"/>quired for the King's Proceedings.</p>
+            <p>In the 36th. year, he Calleth his Parliament to conſult, <note place="margin">
+                  <hi>Parl.</hi> 36 Ed. 3.</note> whe<g ref="char:EOLhyphen"/>ther War or Peace, (by <hi>David</hi> King of <hi>Scots</hi> then offered) ſhould be accepted.</p>
+            <p>In the 40th. year, <note place="margin">
+                  <hi>Parl.</hi> 40 Ed. 3.</note> the Pope demanding the Tribute of King <hi>John,</hi> the Parliament aſſembled, when after Conſultation a part. The Prelates, Lords and Commons, adviſe the denial, although it be by dint of Sword.</p>
+            <p>In the 43d. the King declared to the Peers and Commons, <note place="margin">
+                  <hi>Parl.</hi> 43 Fd. 3.</note> that the <hi>French,</hi> againſt the Articles of the Truce, refuſed pay<g ref="char:EOLhyphen"/>ment of the Moneys, and delivery of the Towns, ſummoning <hi>La Brett,</hi> and others of the King's Subjects in <hi>Gaſcoin,</hi> to make at <hi>Paris</hi> their Appeals, and had forraged his Countrey of <hi>Poitgers,</hi> requiring (in their breach) whether he might not regain hit ſtyle of <hi>France.</hi>
+            </p>
+            <p>The Lords and Commons had apart conſulted; they adviſed the King to both, which he approving, altered the Inſcription and Figure of his ſtyle.</p>
+            <p>Two years after, it was declared to the Peers and Commons, <note place="margin">
+                  <hi>Parl.</hi> 45 Ed. 3</note> that by their Advice, he had again reſumed the ſtyle and quar<g ref="char:EOLhyphen"/>rel of <hi>France,</hi> and therefore called their Advice, for the defence
+<pb n="6" facs="tcp:50342:5"/>of the Realm againſt the <hi>French,</hi> ſecuring of the Seas, and pur<g ref="char:EOLhyphen"/>ſuing of the Wars; of which they conſult and reſolve to give the King an Aid.</p>
+            <p>The like Councel and Supply was the very next following. <note place="margin">
+                  <hi>Parl.</hi> 46 Ed. 3.</note>
+            </p>
+            <p>In the 50. a Parliament to the purpoſe of the former two was Summoned; <note place="margin">
+                  <hi>Parl.</hi> 46 Ed. 3.</note> and the year following the King in Parliament declaring how the <hi>French</hi> had Combined under hand againſt him with <hi>Spain</hi> and <hi>Scotland;</hi> required their advice how Peace at home, Territories abroad, Security of the Seas, and Charge of the War might be maintained.</p>
+            <p>I have the longer inſiſted in obſerving the Carriage of thoſe Times, ſo good and ſo glorious; after Ages having not left the Journal Entries of Parliament ſo full, which with a ſighter hand I will paſs through.</p>
+            <p>
+               <hi>Richard</hi> the 2d. his Grand-child ſucceeded to the Crown and Troubles, <note place="margin">Rich. 2. <hi>Parl.</hi> 1. <hi>m.</hi> 5. <hi>a.</hi> 6.</note> having nothing worthy his great Fortunes but his Birth: The firſt of his raign he purſued the ſteps of his Wiſe Grand father, adviſing with his Peers and Commons how beſt to reſiſt his Enemies that had lately wronged many of his Sub<g ref="char:EOLhyphen"/>jects on the Sea Coaſts.</p>
+            <p>In the ſecond year he again Conſulted with his people how to withſtand the <hi>Scots,</hi>
+               <note place="margin">
+                  <hi>Parl.</hi> 2 Rich 2. <hi>m.</hi> 1.</note> who then had Combined with the <hi>French</hi> to break the Truce.</p>
+            <p>In the third year calleth the advice of his Parliament how to maintain the Regality impaired by the Popes Proviſions, <note place="margin">
+                  <hi>Parl.</hi> 3 Rich. 2. <hi>m.</hi> 4, 5.</note> how to reſiſt <hi>France, Spain</hi> and <hi>Scotland,</hi> that had raiſed Wars againſt him, <note place="margin">
+                  <hi>Urban.</hi> 6.</note> how to ſuppreſs his Rebells in <hi>Guzen</hi> and <hi>Ireland,</hi> and to defend the Seas.</p>
+            <p>In the 4th. year of his Raign he calleth the like at <hi>Windſer;</hi> the year following in a great Councel the King having propoſed a Voyage royal into <hi>France;</hi>
+               <note place="margin">
+                  <hi>Parl.</hi> 4 Rich 2. <hi>m.</hi> 2, 3.</note> now called his Parliament to de<g ref="char:EOLhyphen"/>termine further of that: And that is worth obſervation, that for the moſt part, before any propoſition of War or Peace were vented to the Commons; A debate thereof proceedeth in the great Councel to ſhape that fitter for popular advice.</p>
+            <p>The quarrel with <hi>Spain</hi> continuing, the Duke of <hi>Lancaſter</hi> offereth a Voyage againſt them, <note place="margin">
+                  <hi>Parl.</hi> 5 Rich. 2. <hi>S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 2. <hi>a.</hi>
+               </note> ſo the State will lend him Money; after Conſultation they grant an Aid, but not to bind them to any continuance of War with <hi>Spain.</hi>
+            </p>
+            <p>In the ſixth, the Parliament was called to Conſult about the Defence of the Borders, <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Rich. 2. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> the Kings Poſſeſſions beyond the Seas, <hi>Ireland</hi> and <hi>Gaſcoigne,</hi> his Subjects in <hi>Portugal.</hi>
+            </p>
+            <p>The Lords approve the Dukes intention for <hi>Portu al,</hi> and the Commons adviſe that the Biſhop of <hi>Norwich</hi> having the <hi>Croycery,</hi> ſhould Invade <hi>France.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:50342:5"/>
+               <note place="margin">
+                  <hi>Parl.</hi> 6 Rich 2. S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ. 1. <hi>a.</hi>
+               </note>The ſame year the State was re-aſſembled, to conſult whether the King ſhould go in perſon to reſcue <hi>Gaunt,</hi> or to ſend his Ar<g ref="char:EOLhyphen"/>my. The Commons after two days debate, crave a Conference with the Lords; the effect is not entred in the Roll, only they by Sir <hi>Thomas Puckering</hi> their Speaker, proteſt, that Counſels of War did aptly belong to the King and his Lords: Yet ſince the Commons were commanded to give their Advice, they humbly wiſh a Voyage Royal by the King; if not, that the Biſhop of <hi>Norwich</hi> might, with the advantage of the Pope's <hi>Croycery,</hi> be uſed in that ſervice, who accepted the Charge with ill ſuc<g ref="char:EOLhyphen"/>ceſs.</p>
+            <p>Here further the Commons pray, that the King's Uncle ſhould not be ſpared out of the Realm, before ſome Peace was ſettled with the <hi>Scots,</hi> and that the Lord <hi>Delaſpar,</hi> ſent with Proviſions of Peace from <hi>Spain,</hi> might firſt be heard.</p>
+            <p>
+               <note place="margin">
+                  <hi>Parl.</hi> 7 Ri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h 2. S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ. 4.</note>The Chancellor, in the 7th year, in the Name of the King, willeth the Lords apart; and ſo the Commons do conſult, whe<g ref="char:EOLhyphen"/>ther Peace or War with <hi>Scotland,</hi> or whether to reſiſt or to aſſail the King's Adverſaries of <hi>Spain, France,</hi> or <hi>Flanders.</hi>
+            </p>
+            <p>Their Opinions are not entred in the Rolls, (an omiſſion uſu<g ref="char:EOLhyphen"/>ally by the Clerk his neglect) only their Petition is recorded, that the Biſhop of <hi>Norwich</hi> may account in Parliament the ex<g ref="char:EOLhyphen"/>pence of the Money, and be puniſhed for his faults, in the ſer<g ref="char:EOLhyphen"/>vice he undertook; both which are granted.</p>
+            <p>At the next Seſſions, the ſame year, the Commons are willed to adviſe upon view of the Articles of Peace with the <hi>French,</hi> whether War, or ſuch Amity ſhould be accepted.</p>
+            <p>They modeſtly excuſe themſelves, as too weak to counſel in ſo weighty Cauſes: But charged again, as they did tender the Honour and Right of the King, they make this Anſwer, <hi>Yils in<g ref="char:EOLhyphen"/>trudont que astmis ſervices terres y meſne lour leige anecoit ore per teſtarior in Guyen ſi ſerront tenus del Roy Francois per tril ſernior la villa de Callis &amp; auter terres acquiſe &amp; conquiſe des Francois per les fore neue verroit la Commen y aniuſe Aiuſt fait ſi autrement preroit been faire,</hi> giving their Opinions rather for Peace than War.</p>
+            <p>Peace with <hi>France</hi> not ſucceeding, the 8th. year the Body of the State was called to adviſe, whether the King in his own per<g ref="char:EOLhyphen"/>ſon, or the ſending of Forces againſt the <hi>French, Spaniard, Flan<g ref="char:EOLhyphen"/>ders</hi> and <hi>Scotland,</hi> ſhould proceed.</p>
+            <p>
+               <note place="margin">
+                  <hi>Clauſ.</hi> 9. Rich. 2.</note>The King having aſſembled at <hi>Oxon,</hi> his Great Counſel, to ad<g ref="char:EOLhyphen"/>viſe<g ref="char:punc">▪</g> whether he ſhould paſs the Seas or no with an Army Royal; and they not daring to aſſent without a greater Counſel, a Par<g ref="char:EOLhyphen"/>liament, the 10th. year, was called, to have the Advice of the Commons as well as the Lords, <note place="margin">
+                  <hi>Clauſ.</hi> 10 Ric. 2</note> how the Realm ſhould be govern<g ref="char:EOLhyphen"/>ed in their Soveraign's abſence.</p>
+            <p>
+               <pb n="8" facs="tcp:50342:6"/>
+               <note place="margin">
+                  <hi>Parl.</hi> 1; Rich. 2.</note>The Truce with <hi>France</hi> now near expired; the Parliament was called in the 13th. year, to adviſe upon what Conditions it ſhould be renewed, otherwiſe how the Charge of War ſhould be ſuſtained. <note place="margin">
+                  <hi>Rot. Clauſ.</hi> 13 Rich. 2.</note> At this Aſſembly, and by conſent of all, the Duke of <hi>Lancaſter</hi> is created Duke of <hi>Aquitain;</hi> the Statutes of Pro<g ref="char:EOLhyphen"/>viſions now paſſed; the Commons are named partly in the Letter to the Pope. <note place="margin">Boniface 9.</note>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Parl.</hi> 14 Rich. 2.</note>The year ſucceeding, a Parliament is called, for that the King would have the Advice of his Lords and Commons for the War with <hi>Scotland,</hi> and would not without their Counſel, conclude a final Peace with <hi>France.</hi>
+            </p>
+            <p>The like Aſſembly for the Cauſes, was the year enſuing.</p>
+            <p>The Commons humbly deſire the King, to uſe a moderation in the Law of Proviſion, ſo that the Statute upon their diſlike may again be exempted; and that to negotiate the Peace with <hi>France,</hi> the Duke of <hi>Aquitain</hi> may rather than another be im<g ref="char:EOLhyphen"/>ployed.</p>
+            <p>
+               <note place="margin">
+                  <hi>Parl.</hi> 17 Rich. 2</note>To conſult of the Treaty with <hi>France</hi> for Peace, the King in the 17th. year calleth a Parliament; the Anſwer of the Lords is left un-enter'd in the Rolls.</p>
+            <p>The Commons upon their Faith and Allegiance charged, ad<g ref="char:EOLhyphen"/>viſe, that with good moderation, proviſion may be made for <hi>Guyen,</hi> an Apendage of the <hi>French</hi> Crown, ſo it trench not to involve the other pieces of the <hi>Engliſh</hi> Conqueſt. Their Anſwer is large, modeſt, and worthy to mark.</p>
+            <p>
+               <note place="margin">
+                  <hi>Hen.</hi> 4. <hi>Parl.</hi> 5.</note>Now ſucceeded a Man that firſt ſtudied a Popularity, as need<g ref="char:EOLhyphen"/>ing all to ſupport his Titles: He in the 5th. year calleth a Parlia<g ref="char:EOLhyphen"/>ment, to repreſs the malice of the Duke of <hi>Orleans,</hi> and to adviſe for the Wars in <hi>Ireland</hi> and <hi>Scotland;</hi> neither Counſels nor ſup<g ref="char:EOLhyphen"/>plies are entred into Roll; <note place="margin">
+                  <hi>Parl.</hi> 6 Hen. 4.</note> and to reſiſt an Invaſion intended by <hi>France</hi> and <hi>Britain,</hi> he aſſembleth the State again.</p>
+            <p>
+               <note place="margin">
+                  <hi>Parl.</hi> 7 Hen. 4. <hi>m.</hi> 19, 20.</note>The like was the two years following for <hi>France.</hi> In this the Commons confer with the Lords for Guard of the Sea, and make many Ordinances, to which the King aſſented: The Peace with the Merchants of <hi>Pruce,</hi> and the Hanſe-Towns, is debated, and a Proclamation publiſhed, as they reſolved by the Speaker. The Commons complain of 96 pieces of Ordnance loſt in <hi>Guyen</hi> the year before; <note place="margin">
+                  <hi>Clauſ.</hi> 7 Hen. 4. <hi>n</hi> 33.</note> the need of the defence of the Borders, and Guard of the Sea-Coaſts, to ſuppreſs the Rebellion in <hi>Wales,</hi> and Diſ<g ref="char:EOLhyphen"/>loyalty of the Earl of <hi>Northumberland:</hi> They humbly deſire, that the Prince may be diſpatched into thoſe Parts with ſpeed, and that the Caſtle of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> the Key of three Realms, might be left to the Care of the <hi>Engliſh,</hi> not to <hi>Charles Navarr,</hi> a ſtran<g ref="char:EOLhyphen"/>ger, and to have a diligent Eye of the <hi>Scottiſh</hi> Priſoners.</p>
+            <p>In the 10th. year a Parliament is called, and the Commons commanded to give their Advice about the Truce of <hi>Scotland,</hi>
+               <note place="margin">
+                  <hi>Pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l.</hi> 10 Hen 4.</note> and preparation againſt the malice of the <hi>French.</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:50342:6"/>
+               <note place="margin">Hen. 5. <hi>Parl.</hi> 1.</note>His Son, the wiſe and happy Undertaker, conſulteth with the Parliament in his firſt year, how to cheriſh his Allies, and re<g ref="char:EOLhyphen"/>ſtrain his Enemies. For this there was a ſelect Committee of the Commons, appointed to confer with the Lords; the matter be<g ref="char:EOLhyphen"/>ing entred into ſcedule touching <hi>Ireland, Wales, Scotland, Calis,</hi>
+               <note place="margin">
+                  <hi>N.</hi> 9.</note>
+               <hi>Guyen,</hi> ſhipping, Guard of the Seas, and warry proviſion to re<g ref="char:EOLhyphen"/>pulſe the Enemy.</p>
+            <p>
+               <note place="margin">
+                  <hi>Parl.</hi> 2 Hen. 5</note>In the 2d. he openeth to the Parliament his Title to <hi>France,</hi> a Quarrel he would preſent to death, if they allowed and aided; death in this Aſſembly enacted to all, that either break the Truce, or the King's ſafe Conduct.</p>
+            <p>
+               <note place="margin">
+                  <hi>Parl.</hi> 3 Hen. 5</note>The year following, Peace being offered by the <hi>French</hi> King, and the King of the <hi>Romans,</hi> armed to effect the work; the King refuſed any concluſion, until he had had thereunto the Ad<g ref="char:EOLhyphen"/>vice and Aſſent of his Lords and Commons; for which occaſion the Chancellor declareth it to that Aſſembly.</p>
+            <p>
+               <note place="margin">
+                  <hi>Parl.</hi> 4 &amp; 5 Hen. 5.</note>In the 4th. and 5th. year, no Peace concluded with <hi>France,</hi> he calleth the State together to conſult about the War, conclu<g ref="char:EOLhyphen"/>ding a Treaty of Amity with <hi>Sigiſmond,</hi> King of the <hi>Romans,</hi> by the allowance of the three Eſtates, and entreth Articles in the Journal Roll.</p>
+            <p>
+               <note place="margin">
+                  <hi>Parl.</hi> 5 Hen. 5.</note>The ſame year, by the Duke of <hi>Bedford,</hi> in the King's abſence, a Parliament was called to the former purpoſe, as appeareth by the Summons, though in the Roll omitted.</p>
+            <p>The like in the 7th. year.</p>
+            <p>
+               <note place="margin">
+                  <hi>Parl.</hi> 7 Hen. 5. <hi>Rot. Parl.</hi> 10 Hen. 5.</note>The Treaty with <hi>France</hi> is by the Prelate, Nobles and Com<g ref="char:EOLhyphen"/>mons of the Kingdom, peruſed and ratified, in the 10th. of this King.</p>
+            <p>
+               <note place="margin">Hen. 6. <hi>Rot. Par.</hi> 2 Hen. 6.</note>This Son, more holy than happy, ſucceeded, adviſed in the 2d. year with the Lords and Commons, for the well keeping of the Peace with <hi>France,</hi> conſulteth with them about the delivery of the <hi>Scottiſh</hi> King, and the concluſion of it is confirmed by common Aſſent.</p>
+            <p>
+               <note place="margin">
+                  <hi>Rot. Parl.</hi> 3 Hen. 6.</note>And in the third year they are called to adviſe and conſent to a new Article in the League with <hi>Scotland</hi> for Charge of Hoſtages.</p>
+            <p>
+               <note place="margin">9 Hen. 6.</note>And in the ninth year conclude by name of certain perſons to Treat a Peace with the Dauphin of <hi>France.</hi>
+            </p>
+            <p>The Treaty of <hi>Arras,</hi>
+               <note place="margin">Eugenius 4.</note> (whether the Pope had ſent as Me<g ref="char:EOLhyphen"/>diators two Cardinals) not ſucceeding, the King in Parliament (in <hi>anno</hi> 1640.) ſheweth that he muſt either looſe his Title and Kingdom of <hi>France,</hi> or elſe defend it by Force; the beſt means for prevention whereof, he willeth them to adviſe him.</p>
+            <p>
+               <note place="margin">
+                  <hi>Parl.</hi> 15. Hen. 6.</note>He Summoneth again the next year the Council, how the Realm might be beſt Defended, and the Sea kept Safe againſt the Enemies.</p>
+            <p>
+               <pb n="10" facs="tcp:50342:7"/>
+               <note place="margin">
+                  <hi>Parl</hi> 20. Hen. 6.</note>In the 20th. the Commons exhibit a Bill for Guard of the Sea; a certain number of Ships Aſſeſs wages, and diſpoſe of Prizes, if any Fortune; to which the King accordeth: And that the <hi>Gronowayes</hi> may be declared Enemies for Aſſiſting the <hi>Turk</hi> in the Spoil of the <hi>Rhodes</hi> Knights; and that the Priviledge of the Prince and Hance Towns may be ſuſpended, till Compo<g ref="char:EOLhyphen"/>ſition be made to the <hi>Engliſh</hi> for wronger they have done them. To which in part the King accordeth<g ref="char:punc">▪</g>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Anno</hi> 27 H. 6.</note>The King by the Chancellor declareth in Parliament, that the Marriage with <hi>Margaret</hi> the King of <hi>Sicily</hi>'s Daughter, was Contracted for enducing the Peace made with the <hi>French,</hi> to which the Lords (not by their advice effected) make Proteſtation, enter it upon the Roll.</p>
+            <p>
+               <note place="margin">
+                  <hi>Anno</hi> 25 H. 6.</note>The King intending to paſs in perſon into <hi>France,</hi> then to Treat of Peace with the King, adviſes with his Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament; and Letters of Mart are granted againſt the <hi>Britains</hi> for Spoils done to the <hi>Engliſh</hi> Merchants.</p>
+            <p>The Lord <hi>Haſtings</hi> and the Abbot of <hi>Gloceſter</hi> declared in Parliament the Preparation of the <hi>French,</hi>
+               <note place="margin">
+                  <hi>Anno</hi> 27 H. 6.</note> the Breach by them of the Peace, the weak defence of <hi>Normandy,</hi> and expiration ſhortly of the Truce; requiring ſpeedy advice and remedy.</p>
+            <p>
+               <note place="margin">
+                  <hi>Anno</hi> 29 H. 6.</note>It was enjoyned the Parliament to provide for the defence of the Sea and Land againſt the <hi>French.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Anno</hi> 29 H. 6.</note>It was commanded by the King to the States aſſembled, to adviſe for the well ordering of his Houſe, payment of his Souldiers at <hi>Calice,</hi> Guard of the Seas, Raiſing of the Siege at <hi>Berwick</hi> made by the <hi>Scots</hi> againſt the Truce, diſpoſing of the 13000 Souldiers Arayed the laſt Parliament, According of differences amongſt the Lords, reſtraining Tranſportation of Gold and Silver, and acquiting the Diſorders in <hi>Wales;</hi> of all which Com<g ref="char:EOLhyphen"/>mittees are appointed to frame Bills.</p>
+            <p>
+               <hi>Edward</hi> the 4th. by the Chancellor declareth to the Lords and Commons, <note place="margin">Ed. 4. <hi>Anno</hi> 7.</note> that having Peace with the <hi>Scots,</hi> entred League with <hi>Spain</hi> and <hi>Denmark,</hi> Contracted with <hi>Burgundy</hi> and <hi>Brit<g ref="char:EOLhyphen"/>tain</hi> for their Aid, in Recovery of his Right in <hi>France;</hi> he had now Aſſembled them to give their Adviſe and Counſel therein proceeding, with a Charge in a ſecond Seſſion again preſſed them.</p>
+            <p>
+               <note place="margin">
+                  <hi>Anno</hi> 12 Ed. 4.</note> The like was at another Parliament.</p>
+            <p>
+               <note place="margin">Hen. 7.</note> After this time the Journalls of Parliaments have been either not well preſerved, or not carefully Entred: For I can find of this nature no Record, until the firſt of <hi>Hen.</hi> the 7th. wherein the Commons, by <hi>Thomas Lovel</hi> their Speaker, Petitioned the King to take to Wife <hi>Elizabeth</hi> the Daughter of <hi>Edward</hi> the 4th. to which at their requeſt agreeth.</p>
+            <p>
+               <pb n="11" facs="tcp:50342:7"/>The next is the third of <hi>Henry</hi> the 8th. in which, <note place="margin">Hen. 8. <hi>Rott. Parl.</hi> 3. Hen. 8.</note> from the King the Chancellor delivereth to the three Eſtates the Cauſe of their Aſſembly. The firſt to adviſe a courſe for reſiſting the Invaſion of the <hi>Scots:</hi> Next how to acquit the Quarrel between the King and the <hi>Caſtiles,</hi> and the Duke of <hi>Guilders.</hi>
+            </p>
+            <p>Laſtly, for reſiſting the <hi>Pope</hi> againſt <hi>Lewis</hi> of <hi>France,</hi>
+               <note place="margin">Julius 2.</note> whoſe Bull expreſſing the Injuries done to the See Apoſtolique, was read by the Maſter of the Rolls in open Parliament: The Chan<g ref="char:EOLhyphen"/>cellor, Treaſurer, and other Lords ſent down unto the Com<g ref="char:EOLhyphen"/>mons to confer thereof.</p>
+            <p>The laſt in the 32. where the Chancellor remembring the many Troubles the State had undergone in doubtful Titles of Succeſſion, <note place="margin">
+                  <hi>Rott.</hi> 3 Hen. 8 <hi>Parl.</hi>
+               </note> declareth that the Convocation had judged void the Marriage with <hi>Anne</hi> of <hi>Cleve;</hi> yet the King would not pro<g ref="char:EOLhyphen"/>ceed without the Counſel of the three Eſtates.</p>
+            <p>The two Archbiſhops are ſent to the Commons with the Sen<g ref="char:EOLhyphen"/>tence Sealed, which being read, and there diſcuſſed; <note place="margin">Ex Inſtrument. Original.</note> they paſs a Bill againſt the Marriage.</p>
+            <p>In all theſe paſſages of publick Councel, wherein I have been much aſſiſted by the painful Labours of Mr. <hi>Elſing</hi> Clerk of the Parliament, I ſtill obſerve that the Soveraign Lord, either in beſt Advice, or moſt Neceſſities, would entertain the Commons with the weightieſt Cauſes, either Forraign or Domeſtick, to adapt and bind them ſo to readineſs of Charge; and they as warily avoiding to ſhun Expence: Their Modeſt anſwers may be a Rule for ignorant liberty to form their duties, and humbly to entertain ſuch weighty Counſels at their Soveraigns pleaſure; and not out of the wild fin of any Factious Spirits.</p>
+            <p>I will only add one Forraign Example, to ſhew what uſe hath been formerly made of pretended Marriages, and of Par<g ref="char:EOLhyphen"/>liaments to diſſolve them, their firſt ends ſerved.</p>
+            <p>
+               <hi>Maximilian</hi> the Emperor, and <hi>Ferdinand</hi> of <hi>Spain;</hi> the one to ſecure his Poſſeſſions in <hi>Italy,</hi> the other to ſecure the King<g ref="char:EOLhyphen"/>dom of <hi>Navar:</hi> To both which the <hi>French</hi> King ſtood in the way, projecting a Marriage of <hi>Charles</hi> the Grand-child with <hi>Mary</hi> the King of <hi>England</hi>'s Siſter: It was embraced a Contract, <hi>per verba de preſenti,</hi> paſſed, and a Book publiſhed, of the Benefit and Liberty to enſue the Chriſtian World by this Match.</p>
+            <p>Upon this ground <hi>Ferdinand</hi> begins to incite King <hi>Henry</hi> the 8th. to War in <hi>France;</hi> preſents him with Succour, deſigns him <hi>Guyen</hi> to be the Mark: <hi>Dorſet</hi> is ſent with Men and Muni<g ref="char:EOLhyphen"/>tion to joyn with the <hi>Spaniſh</hi> Forces.</p>
+            <p>Then on the Borders of <hi>Navar</hi> the noiſe is, they come to aſſiſt <hi>Ferdinand</hi> in Conqueſt of that Kingdom, which (though falſe) gain ſuch reputation, that <hi>Albird</hi> was diſheartned, and <hi>Ferdinand</hi> poſſeſſed himſelf of that which his Succeſſors ſince re<g ref="char:EOLhyphen"/>tained,
+<pb n="12" facs="tcp:50342:8"/>his ends ſerved; the <hi>Engliſh</hi> Army in the depth of Winter, weak and weather-beaten, are returned fruitleſs.</p>
+            <p>
+               <hi>Maximilian</hi> then allureth the Young and Active King to be<g ref="char:EOLhyphen"/>gin with <hi>France</hi> on the other ſide <hi>Turway;</hi> and <hi>Turway</hi> is now the Object whether <hi>Henry</hi> the 8th. goeth with Victory, but adviſed with that pittance, maketh an end with <hi>France,</hi> whoſe Eye and Heart was ſet on <hi>Maximilian.</hi>
+            </p>
+            <p>A new Bait the Old Emperor caſteth out to catch the ambi<g ref="char:EOLhyphen"/>tious Young man: <note place="margin">
+                  <hi>Extract. Origi<g ref="char:EOLhyphen"/>nal.</hi> 15 15.</note> He will needs Reſign unto him the Empire, too heavy for his Age to bear.</p>
+            <p>The Cardinal <hi>Sidanenſis</hi> is ſent over to Sign the Agreement, (which he did) and <hi>France</hi> muſt now again be made an Enemy.</p>
+            <p>To prevent this danger, <hi>France</hi> releaſeth his Title to <hi>Naples</hi> and offereth his Infanta <hi>Lampſia</hi> to <hi>Maximilian</hi>'s Grand-child, <note place="margin">
+                  <hi>Extract. Orig.</hi> 15, 16.</note>
+               <hi>Charles</hi> of <hi>Noyen.</hi>
+            </p>
+            <p>This is acted in the dark; and at <hi>Arno</hi> the <hi>French</hi> Com<g ref="char:EOLhyphen"/>miſſioners come up the back Stairs with 60000. and the ingroſſed Covenants, when they abuſed the King of <hi>England</hi>'s Ambaſſa<g ref="char:EOLhyphen"/>dors; a pace went down the other way. The Lord Cardinal returneth home, meeteth by the way the fowl play of his Maſter, and Writ to the King of <hi>England;</hi> not in Excuſe, but in Complaint, <hi>contra per fideam Principium,</hi> an Honeſt Ser<g ref="char:EOLhyphen"/>vant.</p>
+            <p>
+               <hi>Ferdinand</hi> and <hi>Maximilian</hi> dead, <hi>Francis</hi> and <hi>Charles</hi> are Competitors for the Empire.</p>
+            <p>
+               <hi>Henry</hi> the 8th. is Courted for his help by both, the one with tye of Alliance (for the Infanta, <note place="margin">Ex Literis <hi>Car.</hi> Regis Hiſp.</note> Dauphin had offered to <hi>Henry</hi> the 8th. the other with the like; the one will make his Daugh<g ref="char:EOLhyphen"/>ter a Queen in preſent, which the Dauphin cannot do; and by his favour an Empreſs.</p>
+            <p>To further <hi>Francis,</hi>
+               <note place="margin">Ex Literis <hi>Car.</hi> 5 Impr. Orig.</note> was but to win ambition, to prey upon all his Neighbours.</p>
+            <p>The <hi>Engliſh</hi> is won, and winneth for <hi>Spain,</hi> all the Imperial Wealth, which <hi>Charles</hi> (in two Letters I have of his own Hand) then thankfully confeſſed. From <hi>Aquiſgrave</hi> he cometh Crown<g ref="char:EOLhyphen"/>ed in haſte to <hi>England;</hi>
+               <note place="margin">
+                  <hi>Extract</hi> Wi<g ref="char:EOLhyphen"/>doſil.</note> weddeth at <hi>Windſor</hi> the King's Daugh<g ref="char:EOLhyphen"/>ter; contracteth to joyn in an Invaſion of <hi>France;</hi> to divide it with his Father-in-law by the River of <hi>Rhodines;</hi> and ſweareth at the Altar in <hi>Pauls</hi> to keep Faith in all.</p>
+            <p>
+               <hi>Burbon</hi> is wrought from <hi>France,</hi> and entreth the Province with an Army, <note place="margin">Ex Orig. Inſtr.</note> paid with King <hi>Henry</hi>'s Money; <hi>Suffolk</hi> paſſeth with the <hi>Engliſh</hi> Forces by <hi>Picardy:</hi> But <hi>Charles</hi> the Emperor, who ſhould have entred by <hi>Gwyen,</hi>
+               <note place="margin">Ex literis Rici Par. &amp; <hi>Joh Ruſſel.</hi>
+               </note> faileth, drawing away <hi>Bur<g ref="char:EOLhyphen"/>bon</hi> from a ſtrait ſiege of <hi>Maſſels,</hi> to interrupt <hi>Francis,</hi> then en<g ref="char:EOLhyphen"/>tred <hi>Italy;</hi> and ſo the Enterprize of <hi>France</hi> is defeated.</p>
+            <p>
+               <pb n="13" facs="tcp:50342:8"/>The <hi>French</hi> King is at <hi>Pavy</hi> taken Priſoner by <hi>Peſcaro,</hi>
+               <note place="margin">
+                  <hi>Extract.</hi> Madrid 115.20.</note> led to <hi>Genoway,</hi> carried into <hi>Spain</hi> by the Emperor's Galleys, and for<g ref="char:EOLhyphen"/>ced at <hi>Madrid</hi> to a hard Bargain, without privity to <hi>Hen.</hi> 8. or proviſion for him, who had born the greater Charge of that War.</p>
+            <p>Now the Emperor effecteth that Monarchy, <note place="margin">Ex Rot. Comp Ruſſello &amp; Pa<g ref="char:EOLhyphen"/>cis.</note> that hath ever ſince (as ſome ſay) infected the <hi>Auſtrian</hi> Family of <hi>Rome;</hi> the fatal old Seat of Government, muſt be the Seat of this new Em<g ref="char:EOLhyphen"/>pire; <hi>Burbon,</hi> and after <hi>Moncado,</hi> are directed to ſurprize it; <hi>Angelo,</hi> the obſervant Frier, is ſent before; <note place="margin">Ex Inſtrum. <hi>Carol.</hi> 5. Emp. Ex Inſtrum. <hi>Hen 8. Brian</hi> &amp; <hi>Gardian</hi> ex li<g ref="char:EOLhyphen"/>teris <hi>Frenſton</hi> Epicond. legat. <hi>H. 8.</hi> in <hi>Hiſp.</hi> Ex Proteſtat. Orig. <hi>Tolledo</hi> Parl. Ex literis <hi>Car. Wol.</hi> &amp; <hi>Grego. Gaſſalis</hi> Inſtru. &amp; Sign. <hi>Carol.</hi> Emp. Quozag. Fiend. Capl ſuo. Dat. <hi>24 Feb.</hi> Ex libro n. n. n. <hi>D. Carer.</hi> Ex literis in a Com. <hi>Northum</hi> Cuſto March. <hi>Scotiae.</hi> Extract. Orig. in Archimus <hi>Weſtm.</hi> Extract <hi>Cam<g ref="char:EOLhyphen"/>bren. 1529.</hi>
+               </note> a Pope confined by the Emperor's Election, who meant (as his own Inſtructions warrant) to reſtore that Right again to the Imperial Throne.</p>
+            <p>
+               <hi>Charles</hi> will follow from <hi>Batalona</hi> with the Army, but before he muſt call a Parliament at <hi>Tolledo:</hi> Here, whether by direction or affection, I dare not diſcuſs, that Aſſembly maketh proteſta<g ref="char:EOLhyphen"/>tion againſt their Maſter's Marriage with <hi>England,</hi> and aſſigneth him <hi>Iſabella</hi> of <hi>Portugal</hi> for a Wife.</p>
+            <p>The Inſtrument is ſent, ſigned by the Imperial Notary, to <hi>Hen.</hi> 8. and <hi>Charles</hi> bemoaneth the ſtrait he is forced unto by them: And before all this, he had wrought from <hi>Rome</hi> a Diſpen<g ref="char:EOLhyphen"/>ſation for his former Ally and Marriage, fending not long after <hi>Gonſades Fardinand</hi> his Dolphin, to incite the Earl of <hi>Deſmond</hi> in <hi>Ireland,</hi> and inviting <hi>James</hi> the 4th. (by promiſe of Marriage, to <hi>Christian,</hi> the King of <hi>Denmark</hi>'s Daughter, his Neece) to enter the <hi>Engliſh</hi> Borders, to buſie the <hi>Engliſh</hi> King, for asking a ſtrict Account of that indignity.</p>
+            <p>
+               <hi>Hen</hi> 8. with providence and good ſucceſs, and by the League of <hi>Italy,</hi> in which he was made <hi>Caput Feodoris</hi> againſt the Em<g ref="char:EOLhyphen"/>peror; he inforceth him to moderate Conditions, at the Entreaty of <hi>Cambray,</hi> 1529.</p>
+            <p>I may end your Honours Trouble with this one Example, and with humble Prayer, That the Catholick King may either have ſo much of Princely Sincerity, as not to intend the like, or my good and gracious Maſter a jealous Vigilance to prevent, if he ſhould, <hi>&amp;c.</hi>
+            </p>
+            <closer>
+               <signed>Robert Cotton.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
